@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "New_DB",
+			"path": "../DataBases/New_DB"
+		}
+	],
+	"settings": {}
+}
